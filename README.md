@@ -109,22 +109,11 @@ public class SMooKER_999 : GameDev
       <b>The Last Shot</b><br/><sub>Coming soon</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ArnavTripathi999&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e53935&icon_color=e53935&text_color=c9d1d9&rank_icon=github" width="100%" /><br/>
-      <sub>GitHub stats</sub>
-    </td>
-    <td align="center" width="33%">
       <a href="https://github.com/ArnavTripathi999/portfolio"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:2e7d32&text=PORTFOLIO&fontColor=ffffff&fontSize=72&desc=My%20personal%20site&descAlignY=70&descSize=34" width="100%" /></a><br/>
       <a href="https://github.com/ArnavTripathi999/portfolio"><b>Portfolio</b></a><br/><sub>HTML · CSS</sub>
     </td>
   </tr>
 </table>
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArnavTripathi999&theme=dark&hide_border=true&background=0d1117&ring=e53935&fire=e53935&currStreakLabel=e53935" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTripathi999&layout=compact&hide_border=true&bg_color=0d1117&title_color=e53935&text_color=c9d1d9" height="165" />
-</p>
 
 ## ✉️ Contact
 
