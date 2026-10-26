@@ -71,7 +71,7 @@ public class SMooKER_999 : GameDev
 ## 📍 Find me at
 
 <p>
-  <a href="https://arnavtripathi999.github.io/"><img src="https://img.shields.io/badge/Website-arnavtripathi999.github.io-d0102b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://arnavtripathi999.github.io/"><img src="https://img.shields.io/badge/Website-View_portfolio-d0102b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://github.com/ArnavTripathi999"><img src="https://img.shields.io/badge/GitHub-ArnavTripathi999-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
   <br/>
   <a href="https://www.linkedin.com/in/arnav-tripathi-0b8a48376"><img src="https://img.shields.io/badge/LinkedIn-Arnav_Tripathi-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
