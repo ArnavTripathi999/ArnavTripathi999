@@ -95,39 +95,36 @@ public class SMooKER_999 : GameDev
 
 ## 🕹️ Featured Projects
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="170">
-      <a href="https://store.steampowered.com/app/4607190/Phantom_Echoes_Chapter_I/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607190/c2b80d80ff1c36659714c0f431714832566c75a8/header.jpg" width="170" /></a><br/>
+    <td align="center" width="33%">
+      <a href="https://store.steampowered.com/app/4607190/Phantom_Echoes_Chapter_I/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607190/c2b80d80ff1c36659714c0f431714832566c75a8/header.jpg" width="100%" /></a><br/>
       <a href="https://store.steampowered.com/app/4607190/Phantom_Echoes_Chapter_I/"><b>Phantom Echoes: Chapter I</b></a><br/><sub>Psychological horror · Unity · Steam</sub>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.notexstudios.in/blank-1"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:1a0000,100:8b0000&text=ASSET%20ON%20DEMAND&fontColor=ffffff&fontSize=72&desc=Custom%20Unity%203D%20assets&descAlignY=70&descSize=34" width="170" /></a><br/>
+    <td align="center" width="33%">
+      <a href="https://www.notexstudios.in/blank-1"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:1a0000,100:8b0000&text=ASSET%20ON%20DEMAND&fontColor=ffffff&fontSize=72&desc=Custom%20Unity%203D%20assets&descAlignY=70&descSize=34" width="100%" /></a><br/>
       <a href="https://www.notexstudios.in/blank-1"><b>Asset on Demand</b></a><br/><sub>Low-poly to high-poly, Unity-ready</sub>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.notexstudios.in/god"><img src="assets/game-on-demand.png" width="170" /></a><br/>
+    <td align="center" width="33%">
+      <a href="https://www.notexstudios.in/god"><img src="assets/game-on-demand.png" width="100%" /></a><br/>
       <a href="https://www.notexstudios.in/god"><b>Game on Demand</b></a><br/><sub>Idea → playable game you own</sub>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td align="center" width="170">
-      <img src="assets/the-last-peg.png" width="170" /><br/>
+    <td align="center" width="33%">
+      <img src="assets/the-last-peg.png" width="100%" /><br/>
       <b>The Last Peg</b><br/><sub>Coming soon</sub>
     </td>
-    <td align="center" width="170">
-      <a href="https://github.com/ArnavTripathi999/portfolio"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:2e7d32&text=PORTFOLIO&fontColor=ffffff&fontSize=72&desc=My%20personal%20site&descAlignY=70&descSize=34" width="170" /></a><br/>
-      <a href="https://github.com/ArnavTripathi999/portfolio"><b>Portfolio</b></a><br/><sub>HTML · CSS</sub>
+    <td align="center" width="33%">
+      <a href="https://arnavtripathi999.github.io/portfolio/"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:2e7d32&text=PORTFOLIO&fontColor=ffffff&fontSize=72&desc=My%20personal%20site&descAlignY=70&descSize=34" width="100%" /></a><br/>
+      <a href="https://arnavtripathi999.github.io/portfolio/"><b>Portfolio</b></a><br/><sub>HTML · CSS · JS</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.notexstudios.in"><img src="assets/notex-studios.png" width="100%" /></a><br/>
+      <a href="https://www.notexstudios.in"><b>NoteX Studios</b></a><br/><sub>Indie game studio · Delhi</sub>
     </td>
   </tr>
 </table>
-
-</div>
 
 ## ✉️ Contact
 
