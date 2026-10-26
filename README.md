@@ -55,7 +55,13 @@ public class SMooKER_999 : GameDev
 <p>
   <img src="https://img.shields.io/badge/%20-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/%20-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%20-JAVASCRIPT-A68A00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%20-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/%20-GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/%20-DAVINCI_RESOLVE-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-MICROSOFT_EXCEL-217346?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%20-FIGMA-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/%20-STEAMWORKS-1b2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d1117" />
 </p>
@@ -65,17 +71,18 @@ public class SMooKER_999 : GameDev
 ## 📍 Find me at
 
 <p>
+  <a href="https://arnavtripathi999.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-2e7d32?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/ArnavTripathi999"><img src="https://img.shields.io/badge/GitHub-ArnavTripathi999-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+  <br/>
+  <a href="https://www.linkedin.com/in/arnav-tripathi-0b8a48376"><img src="https://img.shields.io/badge/LinkedIn-Arnav_Tripathi-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://www.youtube.com/@NoteXStudios"><img src="https://img.shields.io/badge/YouTube-@NoteXStudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" /></a>
+  <br/>
+  <a href="https://www.instagram.com/notex.studios.games/"><img src="https://img.shields.io/badge/Instagram-@notex.studios.games-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/Discord-ballers__999-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord: ballers_999" />
+  <br/>
   <a href="https://www.notexstudios.in"><img src="https://img.shields.io/badge/Studio-notexstudios.in-8b0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://store.steampowered.com/app/4607190/Phantom_Echoes_Chapter_I/"><img src="https://img.shields.io/badge/Steam-Phantom_Echoes-1b2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://github.com/ArnavTripathi999"><img src="https://img.shields.io/badge/GitHub-ArnavTripathi999-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 </p>
-<!-- TODO: add your socials here, e.g.
-  YouTube:   https://img.shields.io/badge/YouTube-YOUR_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117
-  Instagram: https://img.shields.io/badge/Instagram-@YOU-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117
-  Discord:   https://img.shields.io/badge/Discord-YOU-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117
-  ArtStation:https://img.shields.io/badge/ArtStation-YOU-13AFF0?style=for-the-badge&logo=artstation&logoColor=white&labelColor=0d1117
-  itch.io:   https://img.shields.io/badge/itch.io-YOU-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=0d1117
--->
 
 ## 🎬 Trailer
 
