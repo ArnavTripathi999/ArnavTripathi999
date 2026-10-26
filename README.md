@@ -108,7 +108,7 @@ public class SMooKER_999 : GameDev
       <a href="https://www.notexstudios.in/blank-1"><b>Asset on Demand</b></a><br/><sub>Low-poly to high-poly, Unity-ready</sub>
     </td>
     <td align="center" width="170">
-      <a href="https://www.notexstudios.in/god"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:1565c0&text=GAME%20ON%20DEMAND&fontColor=ffffff&fontSize=72&desc=Your%20idea%2C%20made%20playable&descAlignY=70&descSize=34" width="170" /></a><br/>
+      <a href="https://www.notexstudios.in/god"><img src="assets/game-on-demand.png" width="170" /></a><br/>
       <a href="https://www.notexstudios.in/god"><b>Game on Demand</b></a><br/><sub>Idea → playable game you own</sub>
     </td>
   </tr>
@@ -117,8 +117,8 @@ public class SMooKER_999 : GameDev
 <table>
   <tr>
     <td align="center" width="170">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:4a148c&text=THE%20LAST%20SHOT&fontColor=ffffff&fontSize=72&desc=In%20development&descAlignY=70&descSize=34" width="170" /><br/>
-      <b>The Last Shot</b><br/><sub>Coming soon</sub>
+      <img src="assets/the-last-peg.png" width="170" /><br/>
+      <b>The Last Peg</b><br/><sub>Coming soon</sub>
     </td>
     <td align="center" width="170">
       <a href="https://github.com/ArnavTripathi999/portfolio"><img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:2e7d32&text=PORTFOLIO&fontColor=ffffff&fontSize=72&desc=My%20personal%20site&descAlignY=70&descSize=34" width="170" /></a><br/>
