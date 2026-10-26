@@ -71,16 +71,17 @@ public class SMooKER_999 : GameDev
 ## 📍 Find me at
 
 <p>
+  <a href="https://arnavtripathi999.github.io/"><img src="https://img.shields.io/badge/Website-arnavtripathi999.github.io-d0102b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://github.com/ArnavTripathi999"><img src="https://img.shields.io/badge/GitHub-ArnavTripathi999-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://www.linkedin.com/in/arnav-tripathi-0b8a48376"><img src="https://img.shields.io/badge/LinkedIn-Arnav_Tripathi-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
   <br/>
+  <a href="https://www.linkedin.com/in/arnav-tripathi-0b8a48376"><img src="https://img.shields.io/badge/LinkedIn-Arnav_Tripathi-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
   <a href="https://www.youtube.com/@NoteXStudios"><img src="https://img.shields.io/badge/YouTube-@NoteXStudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" /></a>
+  <br/>
   <a href="https://www.instagram.com/notex.studios.games/"><img src="https://img.shields.io/badge/Instagram-@notex.studios.games-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/Discord-ballers__999-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord: ballers_999" />
   <br/>
   <a href="https://www.notexstudios.in"><img src="https://img.shields.io/badge/Studio-notexstudios.in-8b0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://store.steampowered.com/app/4607190/Phantom_Echoes_Chapter_I/"><img src="https://img.shields.io/badge/Steam-Phantom_Echoes-1b2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d1117" /></a>
-  <br/>
-  <img src="https://img.shields.io/badge/Discord-ballers__999-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord: ballers_999" />
 </p>
 
 ## 🎬 Trailer
@@ -115,8 +116,8 @@ public class SMooKER_999 : GameDev
       <b>The Last Peg</b><br/><sub>Coming soon</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=400&color=0:0d1117,100:2e7d32&text=NEW%20WEBSITE&fontColor=ffffff&fontSize=72&desc=Coming%20soon&descAlignY=70&descSize=34" width="100%" /><br/>
-      <b>New Website</b><br/><sub>Coming soon</sub>
+      <a href="https://arnavtripathi999.github.io/"><img src="assets/website.png" width="100%" /></a><br/>
+      <a href="https://arnavtripathi999.github.io/"><b>My Website</b></a><br/><sub>arnavtripathi999.github.io</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.notexstudios.in"><img src="assets/notex-studios.png" width="100%" /></a><br/>
